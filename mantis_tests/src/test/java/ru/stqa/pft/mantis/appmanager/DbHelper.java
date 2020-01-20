@@ -6,9 +6,10 @@ import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import ru.stqa.pft.mantis.model.UserData;
-import ru.stqa.pft.mantis.model.Users;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class DbHelper {
 
@@ -22,12 +23,12 @@ public class DbHelper {
     sessionFactory = new MetadataSources(registry).buildMetadata().buildSessionFactory();
   }
 
-  public Users users() {
+  public Set<UserData> users() {
     Session session = sessionFactory.openSession();
     session.beginTransaction();
     List<UserData> result = session.createQuery("from UserData where not username = 'administrator'").list();
     session.getTransaction().commit();
     session.close();
-    return new Users(result);
+    return new HashSet<UserData>(result);
   }
 }
