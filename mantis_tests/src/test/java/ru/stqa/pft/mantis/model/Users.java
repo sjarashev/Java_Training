@@ -10,32 +10,12 @@ public class Users extends ForwardingSet<UserData> {
 
   private Set<UserData> delegate;
 
-  public Users(Users users) {
-    this.delegate = new HashSet<UserData>(users.delegate);
-  }
-
-  public Users() {
-    this.delegate = new HashSet<UserData>();
-  }
-
-  public Users(Collection<UserData> contacts) {
-    this.delegate = new HashSet<UserData>(contacts);
+  public Users(Collection<UserData> users) {
+    this.delegate = new HashSet<UserData>(users);
   }
 
   @Override
   protected Set<UserData> delegate() {
     return delegate;
-  }
-
-  public Users withAdded (UserData contact) {
-    Users users = new Users(this);
-    users.add(contact);
-    return users;
-  }
-
-  public Users without (UserData contact) {
-    Users users = new Users(this);
-    users.remove(contact);
-    return users;
   }
 }

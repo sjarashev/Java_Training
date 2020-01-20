@@ -1,7 +1,6 @@
 package ru.stqa.pft.mantis.model;
 
 import javax.persistence.*;
-import java.util.Objects;
 
 
 @Entity

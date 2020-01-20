@@ -28,7 +28,6 @@ public class DbHelper {
     List<UserData> result = session.createQuery("from UserData where not username = 'administrator'").list();
     session.getTransaction().commit();
     session.close();
-    return new Users(result) {
-    };
+    return new Users(result);
   }
 }
