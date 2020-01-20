@@ -28,7 +28,7 @@ public class ResetPasswordTest extends TestBase {
     String password = "password";
     String email = user.getEmail();
     app.registration().resetPasswordByAdmin(username);
-    List<MailMessage> mailMessages = app.mail().waitForMail(2, 10000);
+    List<MailMessage> mailMessages = app.mail().waitForMail(1, 10000);
     String confirmationLink = findConfirmationLink(mailMessages, email);
     app.registration().finish(confirmationLink, password);
     assertTrue(app.newSession().login(username, password));
