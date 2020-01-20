@@ -10,10 +10,34 @@
       <module name="3.test" target="1.8" />
       <module name="addressbook_web_tests.main" target="1.8" />
       <module name="addressbook_web_tests.test" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.addressbook_web_tests.main" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.addressbook_web_tests.main~1" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.addressbook_web_tests.test" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.addressbook_web_tests.test~1" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.litecart_web_tests.main" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.litecart_web_tests.main~1" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.litecart_web_tests.test" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.litecart_web_tests.test~1" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.mantis_tests.main" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.mantis_tests.main~1" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.mantis_tests.test" target="1.8" />
+      <module name="Desktop.Java Training.Java_B10.mantis_tests.test~1" target="1.8" />
       <module name="FirstProject.3.main" target="1.8" />
       <module name="FirstProject.3.test" target="1.8" />
       <module name="FirstProject.main" target="1.8" />
       <module name="FirstProject.test" target="1.8" />
+      <module name="Java Training.Java_B10.addressbook_web_tests.main" target="1.8" />
+      <module name="Java Training.Java_B10.addressbook_web_tests.test" target="1.8" />
+      <module name="Java Training.Java_B10.litecart_web_tests.main" target="1.8" />
+      <module name="Java Training.Java_B10.litecart_web_tests.test" target="1.8" />
+      <module name="Java Training.Java_B10.mantis_tests.main" target="1.8" />
+      <module name="Java Training.Java_B10.mantis_tests.test" target="1.8" />
+      <module name="Java_B10.addressbook_web_tests.main" target="1.8" />
+      <module name="Java_B10.addressbook_web_tests.test" target="1.8" />
+      <module name="Java_B10.litecart_web_tests.main" target="1.8" />
+      <module name="Java_B10.litecart_web_tests.test" target="1.8" />
+      <module name="Java_B10.mantis_tests.main" target="1.8" />
+      <module name="Java_B10.mantis_tests.test" target="1.8" />
       <module name="litecart_web_tests.main" target="1.8" />
       <module name="litecart_web_tests.test" target="1.8" />
       <module name="mantis-tests.2.main" target="1.8" />

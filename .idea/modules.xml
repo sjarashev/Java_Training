@@ -2,6 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.addressbook_web_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.addressbook_web_tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.addressbook_web_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.addressbook_web_tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.litecart_web_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.litecart_web_tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.litecart_web_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.litecart_web_tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.mantis_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.mantis_tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.mantis_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Training.Java_B10.mantis_tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.addressbook_web_tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.addressbook_web_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.addressbook_web_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.addressbook_web_tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.addressbook_web_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.addressbook_web_tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.litecart_web_tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.litecart_web_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.litecart_web_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.litecart_web_tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.litecart_web_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.litecart_web_tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.mantis_tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.mantis_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.mantis_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.mantis_tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_B10.mantis_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_B10.mantis_tests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook_web_tests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook_web_tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook_web_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook_web_tests.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook_web_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook_web_tests.test.iml" />
